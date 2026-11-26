@@ -1,6 +1,6 @@
 {
   "PLACUFFMUG": {
-    "available": true,
-    "price": 20
+    "available": false,
+    "price": 25
   }
 }
